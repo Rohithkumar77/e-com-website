@@ -1,4 +1,3 @@
-Here's a simple README file for your e-commerce website project:
 
 ---
 
@@ -40,10 +39,6 @@ Make sure you have the following installed:
    npm install
    ```
 
-3. **Install frontend dependencies:**
-   ```bash
-   npm install --prefix frontend
-   ```
 
 ## Environment Variables
 
@@ -60,7 +55,7 @@ Add the following variables to the `.env` file:
 ```plaintext
 MONGO_URI=<Your MongoDB URI>
 PORT=<Your desired port, e.g., 5000>
-NODE_ENV=development
+NODE_ENV=production
 ```
 
 ## Running the Project
@@ -95,7 +90,7 @@ Here are the available scripts you can run:
 - **Nodemon**: Development tool for auto-restarting the server
 - **Cross-env**: Cross-platform environment variable support
 - **dotenv**: Module to load environment variables
-
+- **ReactJs**: FrontEnd/ User Interface
 ---
 
 Feel free to modify this README according to any changes in your project structure.
