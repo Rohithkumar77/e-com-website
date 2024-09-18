@@ -3,7 +3,7 @@
 
 # E-commerce Website
 
-![E-commerce Website Screenshot]([./assets/screenshot.png](https://github.com/Rohithkumar77/Assests/blob/main/Screenshot_18-9-2024_174547_localhost.j))
+![E-commerce Website Screenshot](./assets/screenshot.png](https://github.com/Rohithkumar77/Assests/blob/main/Screenshot_18-9-2024_174547_localhost.j)
 
 
 This is an e-commerce website built with **Node.js**, **Express.js**, and **MongoDB** for backend operations. The project supports environment-based configuration and has a frontend setup.I have used **ReactJS** for frontend
