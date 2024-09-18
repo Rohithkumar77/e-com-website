@@ -3,7 +3,10 @@
 
 # E-commerce Website
 
-This is an e-commerce website built with **Node.js**, **Express.js**, and **MongoDB** for backend operations. The project supports environment-based configuration and has a frontend setup.
+![E-commerce Website Screenshot]([./assets/screenshot.png](https://github.com/Rohithkumar77/Assests/blob/main/Screenshot_18-9-2024_174547_localhost.j))
+
+
+This is an e-commerce website built with **Node.js**, **Express.js**, and **MongoDB** for backend operations. The project supports environment-based configuration and has a frontend setup.I have used **ReactJS** for frontend
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
@@ -31,7 +34,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd ecommerse-website
+   cd ecom-website
    ```
 
 2. **Install backend dependencies:**
